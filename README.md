@@ -97,5 +97,5 @@ Illustrates the number of correct and incorrect predictions:
 ## ⚙️ **How to Run the Code**
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/Ramaprasad89/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
